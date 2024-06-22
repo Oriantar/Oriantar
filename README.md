@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Oriantars GitHub stats](https://github-readme-stats.vercel.app/api?username=Oriantar)](https://github.com/oriantar/github-readme-stats)
+[![Oriantars GitHub stats](https://github-readme-stats.vercel.app/api?username=Oriantar)]
 <!--
 **Oriantar/Oriantar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
